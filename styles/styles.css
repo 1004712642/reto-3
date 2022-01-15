@@ -1,0 +1,20 @@
+
+h1 {
+    font-family:'Fredericka the Great', cursive;
+    background-color: chartreuse;
+    color: darkred;
+}
+
+
+ body {
+  background: rgb(240, 170, 182) 2px solid;
+}
+
+#inicio{
+  background: greenyellow;
+}
+
+#tablep{
+  text-align: center;
+}
+
